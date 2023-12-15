@@ -1,8 +1,6 @@
-# React + Vite
+# Search Movies APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Check it out here https://search-engine-movies-app.netlify.app
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. E: I built my search movies fetching an API using React.js instead of JavaScript Vanilla.
+2. S: He hecho mi apliación de búsqueda de películas usando React.js en lugar de Vanilla JavaScript 
